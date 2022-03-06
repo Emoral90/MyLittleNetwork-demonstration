@@ -1,9 +1,3 @@
-# medium.com tutorial: How to create your own decentralized file sharing service using python
-    # https://github.com/Ezi0aaudit0re/P2P-music-sharing
-
-# Real Python sockets tutorial: Socket Programming in Python (Guide)
-    # https://realpython.com/python-sockets/
-
 import socket
 import threading
 import sys
